@@ -1,0 +1,49 @@
+.categoies_Page{
+    display: block;
+    place-content: center;
+}
+
+
+.title-home{
+    text-align: center;
+    margin-top: 50px;
+    color: rgba(132, 138, 138, 0.849);
+    font-size: 50px;
+}
+.choose{
+    margin-top: 50px;
+    color: rgba(132, 138, 138, 0.849);
+    font-size: 50px;
+}
+
+.form_location{
+    text-align: center;
+    margin-top: 10px;
+    margin: 50px;
+    place-items: center;
+}
+
+.map_L{
+    margin-top: 60px;
+    background-color: black;
+    margin-left: 400px;
+    max-width: 100px;
+    max-height: 120px;
+    border-radius: 20px;
+    text-align: center;
+   
+    font-size: 30px;
+    pointer-events: fill;
+    text-decoration: none;
+    
+}
+
+.map_link{
+    color: white;
+    text-decoration: none;
+    margin-bottom: 500px;
+}
+
+.map_L :hover{
+    color: rgb(120, 85, 153);
+}

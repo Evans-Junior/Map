@@ -1,0 +1,22 @@
+.home{
+    background-image: url("../../image/world-map-146505_960_720.png");
+    display: center;
+    background-position: 50% -30%;
+    justify-content:space-around;
+    background-repeat: no-repeat; 
+    height: 80vh; 
+    background-size:auto
+}
+
+.categories_info{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+.comment{
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+    font-size: 25px;
+}

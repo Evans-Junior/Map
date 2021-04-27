@@ -1,0 +1,18 @@
+.category_info{
+    display: flex;
+    border-radius: 10px;
+    height: auto;
+    width: auto;
+    max-width: 500px;
+    padding: 30px;
+    background-color: rgba(3, 1, 1, 0.199);
+    margin-top: 40px;
+    margin-right: 60px;
+}
+
+
+.info{
+    color: white;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
